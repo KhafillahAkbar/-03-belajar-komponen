@@ -1,17 +1,14 @@
 import Image from "next/image";
 import Profile from "./components/profile";
+import { Gallery } from "./components/gallery";
+import TodoList from "./components/todolist";
+import Bio from "./components/bio";
 
 export default function Home() {
   return(
     <>
-    <div style={{ textAlign: 'center' }}>
-    <h3>Ilmuwan yang luar biasa</h3>
-    </div>
-    <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-    <Profile />
-    <Profile />
-    <Profile />
-    </div>
+    <Bio/>
     </>
+    
   )
 }

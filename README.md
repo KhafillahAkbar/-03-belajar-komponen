@@ -34,5 +34,16 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 ![Screenshot](public/assets/01.png)
+Contoh perubahan menggunakan komponen Profile
 
-Contoh perubahan.
+### Jawaban Soal 2
+
+![Screenshot](public/assets/02.png)
+Contoh perubahan menggunakan komponen Gallery
+
+### Jawaban Soal 3
+
+![Screenshot](public/assets/04.png)
+Contoh perubahan dari HTML ke JSX
+![Screenshot](public/assets/03.png)
+Hasil Perubahan pada website
