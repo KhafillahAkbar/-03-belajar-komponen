@@ -50,5 +50,10 @@ Hasil Perubahan pada website
 
 ### Jawaban Soal 4
 
-![Screenshot](public/assets/05.png)
+![Screenshot](public/assets/06.png)
 Penggunaan JSX Dinamis
+
+### Jawaban Soal 5
+
+![Screenshot](public/assets/07.png)
+Ekstrak URL gambar ke dalam objek person
