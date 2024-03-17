@@ -5,6 +5,7 @@ import TodoList from "./components/todolist";
 import Bio from "./components/bio";
 import MyGallery from "./components/mygallery";
 import MyProfile from "./components/myprofile";
+import MyProfileV2 from "./components/myprofilev2";
 
 export default function Home() {
   return(
@@ -15,7 +16,7 @@ export default function Home() {
       <hr />
       <TodoList />
       <hr />
-      <MyProfile />
+      <MyProfileV2 />
     </section>
   )
 }

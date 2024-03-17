@@ -79,4 +79,11 @@ Perubahan code, membenarkan dari pada line 9 menjadi person.imageId
 ![Screenshot](public/assets/12.png)
 Hasil modifikasi pada fungsi utils dimana saat size dibawah 90, value size akan menjadi 's' dan saat diatasnya menjadi 'b'
 
-Fungsi MyProfile dapat mempersingkat pembuatan avatar karena tinggal memasukkan parameter yang nanti akan diumpan ke fungsi.
+### Jawaban Soal 9
+
+![Screenshot](public/assets/13.png)
+Penambahan komponen Card  
+![Screenshot](public/assets/14.png)
+Perubahan tampilan
+
+
