@@ -3,6 +3,7 @@ import Profile from "./components/profile";
 import { Gallery } from "./components/gallery";
 import TodoList from "./components/todolist";
 import Bio from "./components/bio";
+import MyGallery from "./components/mygallery";
 
 export default function Home() {
   return(
@@ -12,6 +13,8 @@ export default function Home() {
       <Gallery />
       <hr />
       <TodoList />
+      <hr />
+      <MyGallery />
     </section>
   )
 }

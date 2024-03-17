@@ -63,3 +63,11 @@ Ekstrak URL gambar ke dalam objek person
 ![Screenshot](public/assets/08.png)
 Perbaikan code sebelumnya, pada src ditambahkan '{}' untuk interpolasi
 
+### Jawaban Soal 7
+
+![Screenshot](public/assets/09.png)
+Perubahan code
+![Screenshot](public/assets/10.png)
+Hasil tampilan dari perubahan code. 
+
+Fungsi MyProfile dapat mempersingkat pembuatan avatar karena tinggal memasukkan parameter yang nanti akan diumpan ke fungsi.
