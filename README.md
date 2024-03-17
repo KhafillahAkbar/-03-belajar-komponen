@@ -51,9 +51,15 @@ Hasil Perubahan pada website
 ### Jawaban Soal 4
 
 ![Screenshot](public/assets/06.png)
-Penggunaan JSX Dinamis
+Penggunaan JSX Dinamis dan perbaikan kode sebelumnya dimana ditambahkan attribut .name pada person class
 
 ### Jawaban Soal 5
 
 ![Screenshot](public/assets/07.png)
 Ekstrak URL gambar ke dalam objek person
+
+### Jawaban Soal 6
+
+![Screenshot](public/assets/08.png)
+Perbaikan code sebelumnya, pada src ditambahkan '{}' untuk interpolasi
+
