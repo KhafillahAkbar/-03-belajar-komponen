@@ -71,3 +71,12 @@ Perubahan code
 Hasil tampilan dari perubahan code. 
 
 Fungsi MyProfile dapat mempersingkat pembuatan avatar karena tinggal memasukkan parameter yang nanti akan diumpan ke fungsi.
+
+### Jawaban Soal 8
+
+![Screenshot](public/assets/11.png)
+Perubahan code, membenarkan dari pada line 9 menjadi person.imageId
+![Screenshot](public/assets/12.png)
+Hasil modifikasi pada fungsi utils dimana saat size dibawah 90, value size akan menjadi 's' dan saat diatasnya menjadi 'b'
+
+Fungsi MyProfile dapat mempersingkat pembuatan avatar karena tinggal memasukkan parameter yang nanti akan diumpan ke fungsi.

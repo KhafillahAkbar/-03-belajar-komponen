@@ -1,8 +1,9 @@
-export function getImageUrl(imageId, size = 's') {
+export function getImageUrl(imageId, size) {
+    let imageSize = size > 90 ? 's' : 'b'
     return (
       'https://i.imgur.com/' +
       imageId +
-      size +
+      imageSize +
       '.jpg'
     );
   }
