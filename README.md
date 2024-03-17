@@ -47,3 +47,8 @@ Contoh perubahan menggunakan komponen Gallery
 Contoh perubahan dari HTML ke JSX
 ![Screenshot](public/assets/03.png)
 Hasil Perubahan pada website
+
+### Jawaban Soal 4
+
+![Screenshot](public/assets/05.png)
+Penggunaan JSX Dinamis

@@ -1,19 +1,25 @@
-import Image from "next/image";
+const person = {
+  name: 'Gregorio Y. Zara',
+  theme: {
+    backgroundColor: 'black',
+    color: 'pink'
+  }
+};
 
 export default function TodoList() {
-    return (
-    <>
-        <h1>Daftar Tugas Putri</h1>
-        <img 
-          src="https://i.imgur.com/yXOvdOSs.jpg" 
-          alt="Putri" 
-          className="photo"
-         />
-        <ul>
-          <li>Mengerjakan PR</li>
-          <li>Pergi Belanja</li>
-          <li>Minum vitamin</li>
-        </ul>
-      </>
-    )
-  }
+  return (
+    <div style={person.theme}>
+      <h1>{person.name}'s Todos</h1>
+      <img
+        className="avatar"
+        src="https://i.imgur.com/7vQD0fPs.jpg"
+        alt="Gregorio Y. Zara"
+      />
+      <ul>
+        <li>Improve the videophone</li>
+        <li>Prepare aeronautics lectures</li>
+        <li>Work on the alcohol-fuelled engine</li>
+      </ul>
+    </div>
+  );
+}
